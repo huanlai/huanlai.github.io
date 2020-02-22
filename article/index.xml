@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Hi, I&#39;m Huan.</title>
-    <link>https://huanlai.dev/article/</link>
+    <link>/article/</link>
     <description>Recent content in Articles on Hi, I&#39;m Huan.</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://huanlai.dev/article/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/article/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Past performance is indicative of future results</title>
-      <link>https://huanlai.dev/article/past-performance-is-indicative-of-future-results/</link>
+      <link>/article/past-performance-is-indicative-of-future-results/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://huanlai.dev/article/past-performance-is-indicative-of-future-results/</guid>
+      <guid>/article/past-performance-is-indicative-of-future-results/</guid>
       <description>Unlike the common disclaimer you see on investment websites, past performance is indicative of future results when interviewing candidates.</description>
     </item>
     
     <item>
       <title>Slack is my IDE</title>
-      <link>https://huanlai.dev/article/slack-is-my-ide/</link>
+      <link>/article/slack-is-my-ide/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://huanlai.dev/article/slack-is-my-ide/</guid>
+      <guid>/article/slack-is-my-ide/</guid>
       <description>You wrote zero lines of code today, and that is ok.</description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://huanlai.dev/article/intro/</link>
+      <link>/article/intro/</link>
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://huanlai.dev/article/intro/</guid>
+      <guid>/article/intro/</guid>
       <description>Hello! Welcome to my blog.</description>
     </item>
     

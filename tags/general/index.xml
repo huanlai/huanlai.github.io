@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on Hi, I&#39;m Huan.</title>
-    <link>https://huanlai.dev/tags/general/</link>
+    <link>/tags/general/</link>
     <description>Recent content in General on Hi, I&#39;m Huan.</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://huanlai.dev/tags/general/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/general/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction</title>
-      <link>https://huanlai.dev/article/intro/</link>
+      <link>/article/intro/</link>
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://huanlai.dev/article/intro/</guid>
+      <guid>/article/intro/</guid>
       <description>Hello! Welcome to my blog.</description>
     </item>
     
