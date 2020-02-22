@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Hi, I&#39;m Huan.</title>
+    <link>https://huanlai.dev/page/</link>
+    <description>Recent content in Pages on Hi, I&#39;m Huan.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 20 Feb 2020 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://huanlai.dev/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://huanlai.dev/page/blog/</link>
+      <pubDate>Thu, 20 Feb 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://huanlai.dev/page/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More about me</title>
+      <link>https://huanlai.dev/page/about-me/</link>
+      <pubDate>Thu, 20 Feb 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://huanlai.dev/page/about-me/</guid>
+      <description>I am currently the Director of Engineering for the Air business unit at Hopper, the fastest growing travel app with over 45M installs and over $1B in bookings.
+I grew up playing with legos and developing a love of building things. This pretty naturally led to a career as a software engineer. I eventually switched over management when I realized that building teams was not all that different from building software, the same excitment from solving a novel problem or tracking down a complicated bug, but with a new form of personal satisfaction from watching the people you&amp;rsquo;ve taken under your wing learn and grow.</description>
+    </item>
+    
+  </channel>
+</rss>
