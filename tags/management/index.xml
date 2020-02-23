@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Management on Hi, I&#39;m Huan.</title>
-    <link>https://huanlai.dev/tags/management/</link>
+    <link>https://www.huanlai.dev/tags/management/</link>
     <description>Recent content in Management on Hi, I&#39;m Huan.</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://huanlai.dev/tags/management/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.huanlai.dev/tags/management/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Slack is my IDE</title>
-      <link>https://huanlai.dev/article/slack-is-my-ide/</link>
+      <link>https://www.huanlai.dev/article/slack-is-my-ide/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://huanlai.dev/article/slack-is-my-ide/</guid>
+      <guid>https://www.huanlai.dev/article/slack-is-my-ide/</guid>
       <description>You wrote zero lines of code today, and that is ok.</description>
     </item>
     
     <item>
       <title>It&#39;s ok to not know everything</title>
-      <link>https://huanlai.dev/article/its-ok-to-not-know-everything/</link>
+      <link>https://www.huanlai.dev/article/its-ok-to-not-know-everything/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://huanlai.dev/article/its-ok-to-not-know-everything/</guid>
+      <guid>https://www.huanlai.dev/article/its-ok-to-not-know-everything/</guid>
       <description>When you switch to management, and especially when you become a manager of managers, it&amp;rsquo;s impossible to know about everything that&amp;rsquo;s going on.</description>
     </item>
     
